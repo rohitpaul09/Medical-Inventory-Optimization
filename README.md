@@ -1,7 +1,5 @@
 # Medical-Inventory-Optimization
 
-The overall project summary, integrating the objective, code summary, insights, and recommendations, is as follows:
-
 **Objective**: The project aims to address the increasing bounce rate in a healthcare organization, leading to patient dissatisfaction. The primary goal is to minimize the bounce rate by at least 30% while reducing inventory costs, with an expected revenue increase of at least 20 lacs INR. Utilizing a Data Analytics Project Management Methodology, the project will handle a dataset of 14,218 rows and 14 columns, focusing on the Supply Chain Management department. The project is budgeted at $450, scheduled between 03/07/2023 and 24/07/2023, and assumes client-provided data and resources.
 
 **Code Summary**: The project involves two main phases: data pre-processing and exploratory data analysis (EDA). The pre-processing phase, detailed in "Pre-processing Code SQL," includes data cleaning and normalization. The EDA phase, described in "EDA Code SQL," uses statistical analysis to understand data distribution and characteristics, focusing on the bounce rate and customer satisfaction issues in certain drug subcategories and formulations.
